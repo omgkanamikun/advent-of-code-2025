@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["task_1_safe_puzzle"]
+members = ["day_1_safe_puzzle", "day_2_gift_shop"]
 
 [workspace.package]
 edition = "2024"
